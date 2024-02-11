@@ -1,5 +1,5 @@
-![Header](./github-header-image.png)
-<p align = "center"><a href="https://github.com/bijanr" target="_blank"> </a></p>
+![Header](./bijan-banner.png)
+<!-- <p align = "center"><a href="https://github.com/bijanr" target="_blank"> </a></p> -->
 <h3 align="center">A dumb CS grad from West Bengal, India.</h3>
 <img align="right" alt="real language" width="400" src="https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/static/b7a0203d028d60ecd968f329bc36eee3/baaed/Renge_Reading_C_Programming_Language.jpg">
 
