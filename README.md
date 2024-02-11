@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-<p align = "center"><a href="https://github.com/bijanr" target="_blank"> <img src="https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67"></a></p>
+<p align = "center"><a href="https://github.com/bijanr" target="_blank"> </a></p>
 <h3 align="center">A dumb CS grad from West Bengal, India.</h3>
 <img align="right" alt="real language" width="400" src="https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/static/b7a0203d028d60ecd968f329bc36eee3/baaed/Renge_Reading_C_Programming_Language.jpg">
 
