@@ -1,5 +1,4 @@
-![Header](./bijan-banner.png)
-<!-- <p align = "center"><a href="https://github.com/bijanr" target="_blank"> </a></p> -->
+
 <h3 align="center">A dumb CS grad from West Bengal, India.</h3>
 <img align="right" alt="real language" width="400" src="https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/static/b7a0203d028d60ecd968f329bc36eee3/baaed/Renge_Reading_C_Programming_Language.jpg">
 
@@ -11,6 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/bijanr4" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPnb7OU2mmnVBHAkDSSDzPqRTN88SyXXKbjw&s" alt="bijanr4" height="30" width="40" /></a>
 <a href="https://instagram.com/bijanlmao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bijanlmao" height="30" width="40" /></a>
 <a href="https://discord.gg/bijanr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bijanr" height="30" width="40" /></a>
 </p>
