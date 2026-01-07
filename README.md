@@ -2,7 +2,7 @@
 <h3 align="center">A dumb CS grad from West Bengal, India.</h3>
 <img align="right" alt="real language" width="400" src="https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/static/b7a0203d028d60ecd968f329bc36eee3/baaed/Renge_Reading_C_Programming_Language.jpg" style="border-radius: 20px;">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bijanr&label=Profile%20views&color=0e75b6&style=flat" alt="bijanr" /> </p>
+
 
 - 🌱 I'm currently learning **Flutter**
 
@@ -29,5 +29,5 @@
     <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/supabase.png" alt="supabase" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
     <a href="https://www.fedoraproject.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/2048px-Fedora_logo.svg.png" alt="fedora" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijanr&show_icons=true&locale=en&layout=compact" alt="bijanr" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bijanr&label=Profile%20views&color=0e75b6&style=flat" alt="bijanr" /> </p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijanr&show_icons=true&locale=en&layout=compact" alt="bijanr" /></p> -->
